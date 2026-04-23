@@ -1,9 +1,4 @@
-# Content for the Privacy Policy .md file
-privacy_policy_md = """# Privacy Policy
-
-**Effective Date:** April 24, 2026
-
-This Privacy Policy explains how our Tetris Extension ("the Extension") handles information. We value your privacy and aim to be transparent about how our software operates.
+# This Privacy Policy explains how our Tetris Extension ("the Extension") handles information. We value your privacy and aim to be transparent about how our software operates.
 
 ## 1. Information Collection
 The Extension is designed to be a "privacy-first" application. 
