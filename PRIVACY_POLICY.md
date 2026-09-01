@@ -171,9 +171,7 @@ We will comply with all applicable laws regarding breach notification.
 
 If you have questions about this Privacy Policy, concerns about your privacy, or wish to exercise your privacy rights, please contact us:
 
-**Email:** [contact@example.com]  
-**Support Portal:** [support website]  
-**Mailing Address:** [Your Company Address]
+**Email:** [rayatsimar@gmail.com]
 
 We will respond to your inquiry within 30 days of receipt.
 
